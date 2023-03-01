@@ -101,7 +101,9 @@
         "react/no-unused-prop-types": "warn",
         "import/order": "off",
         "consistent-return": "off",
-        "react/style-prop-object": "off"
+        "react/style-prop-object": "off",
+        "@typescript-eslint/no-unsafe-call": "off",
+        "@typescript-eslint/no-unsafe-assignment": "off"
     },
     "settings": {
         "import/resolver": {

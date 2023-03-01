@@ -3,7 +3,6 @@
     "compilerOptions": {
         "strict": true,
         "alwaysStrict": true,
-        "baseUrl": ".",
         "downlevelIteration": true,
         "skipLibCheck": true
     }
